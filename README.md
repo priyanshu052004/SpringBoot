@@ -57,9 +57,10 @@ Each project helps me learn a **different concept of Spring Boot development**.
 ```
 SpringBoot
 │
-├── project-1
-├── project-2
-├── project-3
+├── Secton1
+├── Section2
+├── Section3
+-----And So ON----
 └── README.md
 ```
 
