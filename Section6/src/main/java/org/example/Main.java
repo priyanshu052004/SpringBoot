@@ -14,7 +14,6 @@ public class Main {
     static void main(String[] args)
     {
         var context = new AnnotationConfigApplicationContext(ApplicationConfiguration.class);
-
         Person person =  context.getBean(Person.class);
         System.out.println("Person Bean From Spring Context : " + person.getName());
         System.out.println("Person Bean Owns The Vehicle Bean From Spring Context : " + person);

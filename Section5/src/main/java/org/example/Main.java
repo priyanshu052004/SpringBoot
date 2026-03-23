@@ -5,7 +5,6 @@ import org.example.beans.Vehicle;
 import org.example.config.ApplicationConfiguration;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-
 import javax.naming.Context;
 import java.lang.classfile.Annotation;
 
