@@ -9,6 +9,8 @@ public class Example2 {
         instances[1] = "Bye";
         instances[2] = 12;
 
+
+
         String data;
 
         for (int i=0; i<instances.length; i++)

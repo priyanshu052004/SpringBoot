@@ -7,9 +7,6 @@ public class Example1 {
         Integer  i = (Integer) obj;
 
 
-
-
-
         Object obj2 = new String("priyanshu");
         String s = (String) obj2;
 
